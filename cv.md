@@ -7,6 +7,7 @@
 
 + telegram: @AleksKob33
 + email: alekskob33@yandex.ru
++ discord: Aleks33 (@Alekskob33)
 
 #### About:
 
