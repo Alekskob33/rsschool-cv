@@ -1,7 +1,6 @@
 [rsschool-cv](https://Alekskob33/github.io/rsschool-cv/cv)
 
 ## Aleksey Kobychev
-***
 
 #### Contact information:
 
@@ -20,8 +19,9 @@ The *third* I'd like to get here is to become more free to speak, write and read
 
 #### Skills:
 
-|HTML     |CSS      |Sass     |
+| </>     | {}      | @       |
 |---------|---------|---------|
+|HTML     |CSS      |Sass     |
 
 #### Code Example:
 
