@@ -11,7 +11,7 @@
 #### About:
 
 The first thing i'd like to tell about mysesf is my current goals. 
-The nearest ones are to pass the [RS Shool couse](https://github.com/rolling-scopes-school/tasks/tree/master/stage1#%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1-15-%D0%BC%D0%B0%D1%80%D1%82%D0%B0-2022 "JS/Frontend-разработка") regardless of total score, to get wide range knowledge, necessary main skills and meet interesting people to share thoughs, points and make the process easier, more fun and interesting.
+The nearest ones are to pass the [RS Shool course](https://github.com/rolling-scopes-school/tasks/tree/master/stage1#%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1-15-%D0%BC%D0%B0%D1%80%D1%82%D0%B0-2022 "JS/Frontend-разработка") regardless of total score, to get wide range knowledge, necessary main skills and meet interesting people to share thoughs, points and make the process easier, more fun and interesting.
 
 I'd like to get *structire knowlege*, to start using profession tools and methods, to define my mistakes doing tipical tasks and to get practical *self-learning skill*.
 
